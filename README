@@ -1,13 +1,13 @@
 # sort-dejour
 
-FIXME: write description
+Implementation of common sorting algorithms.
 
 ## Usage
 
-FIXME: write
+TODO
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 Jeff Sigmon
 
 Distributed under the Eclipse Public License, the same as Clojure.
